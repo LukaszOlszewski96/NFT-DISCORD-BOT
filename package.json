@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@solana/web3.js": "^1.42.0",
+    "axios": "^0.27.2",
     "discord.js": "^13.7.0",
     "dotenv": "^16.0.1",
     "nodemon": "^2.0.16"
